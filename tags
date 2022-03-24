@@ -1,0 +1,64 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/aniket/influxdb-demo/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210905.0/
+APP_PATH	bin/rails	/^APP_PATH = File.expand_path("..\/config\/application", __dir__)$/;"	C
+APP_ROOT	bin/setup	/^APP_ROOT = File.expand_path("..", __dir__)$/;"	C
+AnonymousClass84762e030101	app/javascript/controllers/hello_controller.js	/^export default class extends Controller {$/;"	c
+Application	config/application.rb	/^  class Application < Rails::Application$/;"	c	module:InfluxdbDemo
+ApplicationCable	app/channels/application_cable/channel.rb	/^module ApplicationCable$/;"	m
+ApplicationCable	app/channels/application_cable/connection.rb	/^module ApplicationCable$/;"	m
+ApplicationController	app/controllers/application_controller.rb	/^class ApplicationController < ActionController::Base$/;"	c
+ApplicationHelper	app/helpers/application_helper.rb	/^module ApplicationHelper$/;"	m
+ApplicationJob	app/jobs/application_job.rb	/^class ApplicationJob < ActiveJob::Base$/;"	c
+ApplicationMailer	app/mailers/application_mailer.rb	/^class ApplicationMailer < ActionMailer::Base$/;"	c
+ApplicationRecord	app/models/application_record.rb	/^class ApplicationRecord < ActiveRecord::Base$/;"	c
+ApplicationSystemTestCase	test/application_system_test_case.rb	/^class ApplicationSystemTestCase < ActionDispatch::SystemTestCase$/;"	c
+Channel	app/channels/application_cable/channel.rb	/^  class Channel < ActionCable::Channel::Base$/;"	c	module:ApplicationCable
+Connection	app/channels/application_cable/connection.rb	/^  class Connection < ActionCable::Connection::Base$/;"	c	module:ApplicationCable
+ConnectionTest	test/channels/application_cable/connection_test.rb	/^class ApplicationCable::ConnectionTest < ActionCable::Connection::TestCase$/;"	c	module:ApplicationCable
+CreatePosts	db/migrate/20220324125818_create_posts.rb	/^class CreatePosts < ActiveRecord::Migration[7.0]$/;"	c
+InfluxdbDemo	config/application.rb	/^module InfluxdbDemo$/;"	m
+Post	app/models/post.rb	/^class Post < ApplicationRecord$/;"	c
+PostTest	test/models/post_test.rb	/^class PostTest < ActiveSupport::TestCase$/;"	c
+PostsController	app/controllers/posts_controller.rb	/^class PostsController < ApplicationController$/;"	c
+PostsControllerTest	test/controllers/posts_controller_test.rb	/^class PostsControllerTest < ActionDispatch::IntegrationTest$/;"	c
+PostsHelper	app/helpers/posts_helper.rb	/^module PostsHelper$/;"	m
+PostsTest	test/system/posts_test.rb	/^class PostsTest < ApplicationSystemTestCase$/;"	c
+README	README.md	/^# README$/;"	c
+TestCase	test/test_helper.rb	/^class ActiveSupport::TestCase$/;"	c	module:ActiveSupport
+The change you wanted was rejected.	public/422.html	/^      <h1>The change you wanted was rejected.<\/h1>$/;"	h
+The page you were looking for doesn't exist.	public/404.html	/^      <h1>The page you were looking for doesn't exist.<\/h1>$/;"	h
+We're sorry, but something went wrong.	public/500.html	/^      <h1>We're sorry, but something went wrong.<\/h1>$/;"	h
+activate_bundler	bin/bundle	/^  def activate_bundler$/;"	f
+activation_error_handling	bin/bundle	/^  def activation_error_handling$/;"	f
+application	app/javascript/controllers/application.js	/^const application = Application.start()$/;"	C
+bundler_requirement	bin/bundle	/^  def bundler_requirement$/;"	f
+bundler_version	bin/bundle	/^  def bundler_version$/;"	f
+change	db/migrate/20220324125818_create_posts.rb	/^  def change$/;"	f	class:CreatePosts
+cli_arg_version	bin/bundle	/^  def cli_arg_version$/;"	f
+connect	app/javascript/controllers/hello_controller.js	/^  connect() {$/;"	m	class:AnonymousClass84762e030101
+create	app/controllers/posts_controller.rb	/^  def create$/;"	f	class:PostsController
+default	config/database.yml	/^default: &default$/;"	a
+destroy	app/controllers/posts_controller.rb	/^  def destroy$/;"	f	class:PostsController
+edit	app/controllers/posts_controller.rb	/^  def edit$/;"	f	class:PostsController
+env_var_version	bin/bundle	/^  def env_var_version$/;"	f
+gemfile	bin/bundle	/^  def gemfile$/;"	f
+index	app/controllers/posts_controller.rb	/^  def index$/;"	f	class:PostsController
+invoked_as_script?	bin/bundle	/^  def invoked_as_script?$/;"	f
+load_bundler!	bin/bundle	/^  def load_bundler!$/;"	f
+lockfile	bin/bundle	/^  def lockfile$/;"	f
+lockfile_version	bin/bundle	/^  def lockfile_version$/;"	f
+new	app/controllers/posts_controller.rb	/^  def new$/;"	f	class:PostsController
+post_params	app/controllers/posts_controller.rb	/^    def post_params$/;"	f	class:PostsController
+set_post	app/controllers/posts_controller.rb	/^    def set_post$/;"	f	class:PostsController
+show	app/controllers/posts_controller.rb	/^  def show$/;"	f	class:PostsController
+system!	bin/setup	/^def system!(*args)$/;"	f
+update	app/controllers/posts_controller.rb	/^  def update$/;"	f	class:PostsController
